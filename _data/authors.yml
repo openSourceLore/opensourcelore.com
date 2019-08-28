@@ -1,0 +1,15 @@
+# Site authors
+
+Ryan Drew:
+  name: Ryan Drew
+  picture: assets/images/authors/rydr.jpg
+  links:
+    - title: "LinkedIn"
+      title: "fab fa-fw fa-linkedin"
+      url: https://linkedin.com/in/ryan-drew
+    - title: "Github"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/learnitall
+    - title: "Email"
+      icon: "far fa-fw fa-paper-plane"
+      url: mailto:ryan.drew@opensourcelore.com
