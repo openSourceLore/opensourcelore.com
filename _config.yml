@@ -4,13 +4,13 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Open Source Lore"
-description: "Security focused, community based."
+description: "Have an article you want to share? Send a pull request!"
 baseurl: "" # the subpath of the site
 url: "https://opensourcelore.com" # the base hostname & protocol
 logo: "/assets/images/icon.svg" # path of site logo
 date_format: "%B %-d, %Y"
-copyright: "&copy; Ryan Drew 2019. Made with <3 and [Vim](https://www.vim.org/); powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme/)"
-read_time: false # reading time estimates
+copyright: "&copy; opensourcelore.com 2019. Made with <3; Powered by [Jekyll](https://jekyllrb.com/) & [So Simple](https://github.com/mmistakes/so-simple-theme/)"
+read_time: true # reading time estimates
 words_per_minute: 100 # Halved this to account for 
 mathjax: false # MathJax equations
 google_fonts:
@@ -18,8 +18,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-disqus:
-  shortname: open-source-lore # Disqus shortname, e.g. "my_disqus_shortname"
 
 # Liquid
 liquid:
@@ -36,7 +34,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: true # can have performance implications for large sites
+search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
