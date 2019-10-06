@@ -2,7 +2,6 @@
 title: "Privacy Policy"
 layout: page
 permalink: /privacy
-last_modified_at: "2019-08-27T22:13:20Z"
 ---
 
 > Thank you to [ArtherGareginyan](https://github.com/ArthurGareginyan) for designing the [template](https://github.com/ArthurGareginyan/privacy-policy-template) this policy is based on!
