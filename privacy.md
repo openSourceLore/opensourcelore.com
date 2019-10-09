@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: page
-permalink: /privacy
+permalink: /privacy/
 ---
 
 > Thank you to [ArtherGareginyan](https://github.com/ArthurGareginyan) for designing the [template](https://github.com/ArthurGareginyan/privacy-policy-template) this policy is based on!
